@@ -36,7 +36,7 @@
 ---
 
 [website]: https://www.nilsongaspar.uk/
-[youtube]: https://youtube.com/UCSxUPdvxh60QICPry-Vam1g
+[youtube]: https://www.youtube.com/user/KizombaZoukTV
 [instagram]: https://instagram.com/nilsongtech
 [linkedin]: https://linkedin.com/in/nilson-gaspar
 [mundo kizomba]: https://www.youtube.com/channel/UCvjM1zhwa_tiYlBKYsdKdYQ

@@ -3,7 +3,7 @@
 #### I'm Also a Photographer, Videographer and Content Creator
 
 - 📚 Currently learning Full Stack Web Developer
-- 🎖 Own a YouTube Channel with 60k+ Subscribers [Mundo Kizomba][mundo kizomba]
+- 🎖 Own a YouTube channel with 60k+ subscribers [Mundo Kizomba][mundo kizomba]
 - 📈 Created a new YouTube channel to talk about tech products that I use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsongaspar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
